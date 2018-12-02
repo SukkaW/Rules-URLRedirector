@@ -24,7 +24,7 @@
       "enable": true
     },
     {
-      "origin": "(.*).gravatar.com",
+      "origin": ".*.gravatar.com",
       "target": "https://gravatar.loli.net",
       "enable": true
     },
