@@ -1,0 +1,22 @@
+{
+    "name": "rules-for-urlredirector",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SukkaW/Rules-for-URLRedirector.git"
+    },
+    "author": "Sukka",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/SukkaW/Rules-for-URLRedirector/issues"
+    },
+    "homepage": "https://github.com/SukkaW/Rules-for-URLRedirector#readme",
+    "dependencies": {
+        "gulp": "^4.0.0",
+        "gulp-yaml": "^2.0.2"
+    }
+}
