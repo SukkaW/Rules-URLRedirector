@@ -1,0 +1,16 @@
+version: 1.0.0
+createBy: "Sukka (https://skk.moe)"
+rules:
+  # CDNJS
+  - origin: "cdnjs.cloudflare.com"
+    target: "cdnjs.loli.net"
+  # Google
+  - origin: "fonts.googleapis.com"
+    target: "fonts.loli.net"
+  - origin: "ajax.googleapis.com"
+    target: "https://ajax.loli.net"
+  - origin: "themes.googleusercontent.com"
+    target: "themes.loli.net"
+  # Gravatar
+  - origin: "*.gravatar.com"
+    target: "https://gravatar.loli.net"
