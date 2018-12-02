@@ -17,7 +17,7 @@ rules:
     target: "themes.loli.net"
     enable: true
   # Gravatar
-  - origin: "(.*).gravatar.com"
+  - origin: ".*.gravatar.com"
     target: "https://gravatar.loli.net"
     enable: true
   # Update old css.net
