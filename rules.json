@@ -15,7 +15,7 @@
     },
     {
       "origin": "ajax.googleapis.com",
-      "target": "https://ajax.loli.net",
+      "target": "ajax.loli.net",
       "enable": true
     },
     {
@@ -25,7 +25,7 @@
     },
     {
       "origin": ".*.gravatar.com",
-      "target": "https://gravatar.loli.net",
+      "target": "gravatar.loli.net",
       "enable": true
     },
     {
