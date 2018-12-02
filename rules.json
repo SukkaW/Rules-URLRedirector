@@ -21,6 +21,50 @@
     {
       "origin": "*.gravatar.com",
       "target": "https://gravatar.loli.net"
+    },
+    {
+      "origin": "cdn.css.net/libs",
+      "target": "cdnjs.loli.net/ajax/libs"
+    },
+    {
+      "origin": "cdnjs.cat.net/ajax/libs",
+      "target": "cdnjs.loli.net/ajax/libs"
+    },
+    {
+      "origin": "cdn.css.net/fonts",
+      "target": "fonts.loli.net"
+    },
+    {
+      "origin": "fonts.cat.net",
+      "target": "fonts.loli.net"
+    },
+    {
+      "origin": "fonts.css.network",
+      "target": "fonts.loli.net"
+    },
+    {
+      "origin": "cdn.css.net/ajax",
+      "target": "ajax.loli.net"
+    },
+    {
+      "origin": "ajax.cat.net",
+      "target": "ajax.loli.net"
+    },
+    {
+      "origin": "ajax.css.network",
+      "target": "ajax.loli.net"
+    },
+    {
+      "origin": "cdn.css.net/avatar",
+      "target": "gravatar.loli.net"
+    },
+    {
+      "origin": "gravatar.cat.net",
+      "target": "gravatar.loli.net"
+    },
+    {
+      "origin": "gravatar.css.network",
+      "target": "gravatar.loli.net"
     }
   ]
 }
