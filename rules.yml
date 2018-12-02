@@ -1,6 +1,6 @@
 version: 1.0.1
 createdAt: "2018-12-03"
-createBy: "Sukka (https://skk.moe)"
+createBy: "Sukka"
 rules:
   # CDNJS
   - origin: "cdnjs.cloudflare.com"
@@ -17,7 +17,7 @@ rules:
     target: "themes.loli.net"
     enable: true
   # Gravatar
-  - origin: "*.gravatar.com"
+  - origin: "(.*).gravatar.com"
     target: "https://gravatar.loli.net"
     enable: true
   # Update old css.net
